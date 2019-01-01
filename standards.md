@@ -12,4 +12,5 @@ Swarm's security token standard. [More Info](https://medium.com/@support_55866/r
 Polymaths' security token standard.  [More Info](https://polymath.network/st20.html)
 
 # ERC-1400
-A security token standard.  [More Info](https://github.com/ethereum/EIPs/issues/1411)
+A comprehensive security token standard.  [More Info](https://github.com/ethereum/EIPs/issues/1411)
+https://thesecuritytokenstandard.org/
